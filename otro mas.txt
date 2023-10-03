@@ -1,3 +1,5 @@
 viendo un fichero de texto de 1.000.000 de líneas de 100 caracteres cada una, con un total de 100.000.000 de caracteres. El fichero se genera con el siguiente código:
 
 ```python
+
+te mp
