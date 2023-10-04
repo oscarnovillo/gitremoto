@@ -7,6 +7,8 @@ otra linea
 juan juan K
 juan juan J
 
+oscar
+
 nueva linea soy juan
 
 
