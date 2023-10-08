@@ -8,7 +8,6 @@ nueva linea soy juan
 
 
 linea nueva soy pepe
-pepe 
-pepe
+
 
 otra linea
