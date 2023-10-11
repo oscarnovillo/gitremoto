@@ -7,7 +7,7 @@ otra linea
 juan juan K
 juan juan J
 
-oscar
+oscar y oscara
 
 asdads
 
